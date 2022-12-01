@@ -3,3 +3,8 @@
 ################################################################################
 
 /AoC Day 01/obj
+/.vs
+/AoC Day 01/bin/Debug/net6.0
+/AoC Day 02/obj
+/Aoc Utilities/bin/Debug/net6.0
+/Aoc Utilities/obj
